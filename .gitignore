@@ -1,0 +1,8 @@
+# Ignore nested .git directories (these are sub-projects)
+南宋武穆/.git
+在线恋人/.git
+她租的公寓有十三条规则/.git
+结婚三年他的心给了白月光/.git
+
+# Ignore workbuddy metadata
+*/.workbuddy
